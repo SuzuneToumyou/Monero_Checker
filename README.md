@@ -1,4 +1,5 @@
 # Monero_Checker
+## Overview
  This Python script retrieves Monero (XMR) mining data from Nanopool every 10 minutes and displays the current XMR balance and its equivalent in Japanese Yen (JPY).  
  It uses live exchange rates for JPY conversion.
 
